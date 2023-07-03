@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AliFarhadi11
 - 👀 I’m interested in Frontend
-- 🌱 I’m currently learning ReactJS
 - 📫 How to reach me alifaarhadi11@gmail.com OR @YounGDev11 in Telegram
 
 <!---
