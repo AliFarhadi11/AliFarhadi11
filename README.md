@@ -29,7 +29,7 @@
 ## ✨ Featured Projects
 
 ### 🖥️ **Portfolio Website** *(Next.js + TailwindCSS)*
-- 🚀 **[Live Demo](∫alifarhadi-portfolio.vercel.app)**
+- 🚀 **[Live Demo](https://alifarhadi-portfolio.vercel.app/)**
 - Responsive, dark mode, interactive animations.
 
 ---
